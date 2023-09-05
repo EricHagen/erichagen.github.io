@@ -1,4 +1,15 @@
 # Name of website
 theme: jekyll-theme-minimal
-title: Eric Hagen, PhD
-description: Evolutionary biologist interested in all things macroevolutionary
+
+#Site settings
+locale                   : "en-CA"
+title                    : "Evolutionary biologist interested in all things macroevolutionary"
+title_separator          : "-"
+name                     : "Eric Hagen"
+description              : "Postdoctoral Fellow at the University of Toronto"
+url                      : "https://erichagen.github.io"
+baseurl                  : # the subpath of your site, e.g. "/blog"
+repository               : "EricHagen/erichagen.github.io"
+teaser                   : #/assets/images/tortle.jpeg" #500x300
+logo                     : "/assets/images/tortle.jpeg" #88x88
+masthead_title           : "Eric Hagen"
