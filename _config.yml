@@ -1,5 +1,5 @@
 # Name of website
-theme: jekyll-theme-midnight
+theme: jekyll-theme-minimal
 
 #Site settings
 locale                   : "en-CA"
