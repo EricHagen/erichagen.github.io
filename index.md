@@ -1,16 +1,16 @@
 ---
 layout: default
 ---
-#ABOUT ME
+# ABOUT ME
 Welcome to my website! I am a macroevolutionary biologist interested in how evolution over millions of years affects the diversification and biogeography of (mainly) plant species. Keep on reading to learn about my research!
 
 [Link to my CV](./cv_page.html).
 
-#POLYPLOIDY
+# POLYPLOIDY
 Polyploidy is LIT!
 
-#LEAF PALEOBIOLOGY
+# LEAF PALEOBIOLOGY
 Love it!
 
-#BIOGEOGRAPHY
+# BIOGEOGRAPHY
 Ask me about latitude!
