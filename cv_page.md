@@ -2,6 +2,9 @@
 layout: default
 ---
 [back](./)
+
+![Buffalo]("/assets/images/tortle.jpeg")
+
 # Eric Robert Hagen
 
 ## Curriculum Vitae
