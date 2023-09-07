@@ -13,9 +13,3 @@ repository               : "EricHagen/erichagen.github.io"
 teaser                   : #/assets/images/tortle.jpeg"
 logo                     : "/assets/images/tortle.jpeg"
 masthead_title           : "Eric Hagen"
-
-#Social media
-social-network-links:
-  email: "eric.hagen@utoronto.ca"
-  rss: false
-  twitter: EricHagen19
