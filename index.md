@@ -6,6 +6,8 @@ Welcome to my website! I am a macroevolutionary biologist interested in how evol
 
 [Link to my CV](./cv_page.html).
 
+[Link to my Twitter](https://twitter.com/EricHagen19).
+
 # POLYPLOIDY
 Polyploidy is LIT!
 
