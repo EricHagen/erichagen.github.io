@@ -6,7 +6,7 @@ Welcome to my website! I am a macroevolutionary biologist interested in how evol
 
 ## POLYPLOIDY
 
-![Onion](./assets/images/onion_small.jpeg)
+![Onion](./assets/images/onion_small.jpg)
 
 Polyploidy is LIT! I wrote a [meta-analysis](https://onlinelibrary.wiley.com/doi/10.1111/oik.09908) about it and I'm working on a biogeography paper that you can see a [pre-print](https://www.biorxiv.org/content/10.1101/2023.09.01.555981v1) of.
 
