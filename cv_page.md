@@ -50,16 +50,16 @@ Evolutionary biology, phylogenetic comparative methods, polyploidy, diversificat
   -  Tutored students at York Correctional Institution in Niantic, CT in math and writing (2015-2016)
 
 ### References
--  Jeremy Beaulieu
-  -  jmbeauli@uark.edu, 479-575-2618; Dept. of Biological Sciences, University of Arkansas; Fayetteville, AR 72701
--  Tomomi Parins-Fukuchi
-  -  tomo.fukuchi@utoronto.ca, 416-978-8436; Dept. of Ecology & Evolutionary Biology, University of Toronto; Toronto, ON M5S 3B2
--  Thais Vasconcelos
-  -  tvasc@umich.edu; Dept. of Ecology and Evolutionary Biology, University of Michigan; Ann Arbor, MI 48109
--  Chase Mason
-  -  chase.mason@ucf.edu; Department of Biology, University of Central Florida; Orlando, FL 32816
--  Dana Royer
-  -  droyer@wesleyan.edu, 860-685-2836; Dept. of Earth & Environmental Sciences, Wesleyan University; Middletown, CT 06457
+- Jeremy Beaulieu
+  - jmbeauli@uark.edu, 479-575-2618; Dept. of Biological Sciences, University of Arkansas; Fayetteville, AR 72701
+- Tomomi Parins-Fukuchi
+  - tomo.fukuchi@utoronto.ca, 416-978-8436; Dept. of Ecology & Evolutionary Biology, University of Toronto; Toronto, ON M5S 3B2
+- Thais Vasconcelos
+  - tvasc@umich.edu; Dept. of Ecology and Evolutionary Biology, University of Michigan; Ann Arbor, MI 48109
+- Chase Mason
+  - chase.mason@ucf.edu; Department of Biology, University of Central Florida; Orlando, FL 32816
+- Dana Royer
+  - droyer@wesleyan.edu, 860-685-2836; Dept. of Earth & Environmental Sciences, Wesleyan University; Middletown, CT 06457
 
 ### Affiliations
 * Botanical Society of America
