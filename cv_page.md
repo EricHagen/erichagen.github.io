@@ -47,6 +47,7 @@ Evolutionary biology, phylogenetic comparative methods, polyploidy, diversificat
   - Participated in native plant seed collecting, tree planting, predator cam installation, clean-ups, and other projects (2018-2023)
   - Served as chapter vice president (2022-2023)
 - Judge, University of Arkansas Undergraduate Research Week Poster Competition (April 2022)
+  
 - Tutor, Wesleyan Center for Prison Education
   - Tutored students at York Correctional Institution in Niantic, CT in math and writing (2015-2016)
 
