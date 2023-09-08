@@ -22,9 +22,33 @@ layout: default
 ### Employment
 - Postdoctoral Fellow, University of Toronto (2023 - present)
   - Mentor: C. Tomomi Parins-Fukuchi
+ 
+### Honors, Awards, and Funding
+- Graduate Student Research Award, Society of Systematic Biologists (2022)
+  - $3,000
+- Fulbright College Graduate Dissertation Research Award, University of Arkansas (2022)
+  - $5,000
+- Distinguished Doctoral Fellowship, University of Arkansas (2018 - 2022)
+  - $88,000
+- College of the Environment Summer Internship, Wesleyan University (2017)
+  - $4,000
+
+### Teaching Experience
+- Teaching Assistant: BIOL 3023, Evolutionary Biology (University of Arkansas)
+  - Spring 2022 - Spring 2023
+- Teaching Assistant: BIOL 2211, Human Physiology Lab (University of Arkansas)
+  - Spring 2020 - Fall 2021
+- Teaching Assistant: BIOL 4153, Biology of Global Change (University of Arkansas)
+  - Spring 2019
+- Teaching Assistant: BIOL 1541, Principles of Biology Lab (University of Arkansas)
+  - Fall 2018 & Fall 2019
 
 ### Research Interests
-Evolutionary biology, phylogenetic comparative methods, polyploidy, diversification
+* Evolutionary biology
+* Phylogenetic comparative methods
+* Polyploidy
+* Diversification
+* Biogeography
 
 ### Peer-Reviewed Publications
 - **Hagen, E.R.**, Vasconcelos, T., Boyko, J.D., and Beaulieu, J.D. 2023. Historical causes for the greater proportion of polyploid plants in higher latitudes. _American Journal of Botany_ https://www.biorxiv.org/content/10.1101/2023.09.01.555981v1
