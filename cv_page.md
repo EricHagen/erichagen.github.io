@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-[back](./)
+[Back to Home Page](./)
 
 # Eric Robert Hagen
 
