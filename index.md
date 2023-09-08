@@ -6,7 +6,7 @@ Welcome to my website! I am a macroevolutionary biologist interested in how evol
 
 ## POLYPLOIDY
 
-![Onion](./assets/images/onion.jpeg)
+![Onion](./assets/images/onion_small.jpeg)
 
 Polyploidy is LIT! I wrote a [meta-analysis](https://onlinelibrary.wiley.com/doi/10.1111/oik.09908) about it and I'm working on a biogeography paper that you can see a [pre-print](https://www.biorxiv.org/content/10.1101/2023.09.01.555981v1) of.
 
@@ -18,6 +18,6 @@ Love it! This is what I'm working on in my postdoc.
 
 ## BIOGEOGRAPHY
 
-![Map](./assets/images/worldmap.jpg)
+![Map](./assets/images/worldmap_small.jpg)
 
 In addition to my work on the latitudinal polyploidy gradient, I worked on [this paper](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.18971) on the biogeography of plant life histories.
