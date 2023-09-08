@@ -20,4 +20,4 @@ My love for leaf fossils started during my undergraduate thesis, in which I deve
 
 ![Map](./assets/images/worldmap_small.jpg)
 
-In addition to my work on the latitudinal polyploidy gradient, I worked on [this paper](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.18971) on the biogeography of plant life histories.
+In addition to my work on the latitudinal polyploidy gradient, I worked on [this paper](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.18971) on the global distribution of life histories of flowering plants. We found that annual angiosperms exhibit higher rates of climatic niche evolution than perennial ones, and they seem to be favored in environments that frequently experience extreme heat and drought. I personally think the methods in this paper are really cool, so I highly recommend you have a look for yourself!
