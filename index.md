@@ -14,7 +14,7 @@ Polyploid plants, which possess more than two copies of their genomes, frequentl
 
 ![Fossil](./assets/images/rhamnus_small.jpg)
 
-Love it! This is what I'm working on in my postdoc.
+My love for leaf fossils started during my undergraduate thesis, in which I developed a method to reconstruct the original areas of fragmented fossil leaves by applying knowledge of how the density of secondary veins scales with leaf area in the leaves of many flowering plants. This method, which you can read about [here](https://pubs.geoscienceworld.org/sepm/palaios/article-abstract/34/1/43/568424/NO-LARGE-BIAS-WITHIN-SPECIES-BETWEEN-THE), is useful for paleobotanists aiming to reconstruct mean annual precipitation from the areas of leaf fossils, which are frequently fragmented. Currently, my postdoctoral research focuses on phenotypic innovation in angiosperm leaves over time. More info forthcoming!
 
 ## BIOGEOGRAPHY
 
