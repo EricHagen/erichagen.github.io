@@ -8,8 +8,8 @@ layout: default
 ## Curriculum Vitae
 
 ### Personal Information
-*  _Address_ University of Toronto
-*  _Email_ eric.hagen@utoronto.ca
+*  _Address:_ 25 Willcocks St., University of Toronto, Toronto, ON M5S 3B2
+*  _Email:_ eric.hagen@utoronto.ca
 
 ### Education
 - PhD, University of Arkansas, Biological Sciences (2023)
@@ -33,7 +33,7 @@ Evolutionary biology, phylogenetic comparative methods, polyploidy, diversificat
 -  **Hagen, E.R.**, Royer, D.L., Moye, R.A., and Johnson, K.R. 2019. No large bias within species between the reconstructed areas of complete and fragmented fossil leaves. _PALAIOS_ 34 (1): 43-48.
 
 ### Popular Articles
-Tye, S.P., and **Hagen, E.R.** 2022. The perennial seeds of Zapata. Science for the People 25 (1): 40-44.
+-  Tye, S.P., and **Hagen, E.R.** 2022. The perennial seeds of Zapata. Science for the People 25 (1): 40-44.
 
 ### Conference Presentations
 -  **Hagen, E.R.**, and Beaulieu, J.M. 2023. Directly testing for diversification lags after polyploidization. Botanical Society of America Conference. Boise, Idaho.
@@ -62,11 +62,11 @@ Tye, S.P., and **Hagen, E.R.** 2022. The perennial seeds of Zapata. Science for 
   -  droyer@wesleyan.edu, 860-685-2836; Dept. of Earth & Environmental Sciences, Wesleyan University; Middletown, CT 06457
 
 ### Affiliations
-*  Botanical Society of America
-*  International Biogeography Society
-*  Society for Integrative & Comparative Biology
-*  Society for the Study of Evolution
-*  Society of Systematic Biologists
+* Botanical Society of America
+* International Biogeography Society
+* Society for Integrative & Comparative Biology
+* Society for the Study of Evolution
+* Society of Systematic Biologists
 
 
 
