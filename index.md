@@ -2,7 +2,7 @@
 layout: default
 ---
 # ABOUT ME
-Welcome to my website! I am a macroevolutionary biologist interested in how evolution over millions of years affects the diversification and biogeography of (mainly) plant species. Keep on reading to learn about my research! Or feel free to check out [my CV](./cv_page.html), my [Google Scholar page](https://scholar.google.com/citations?user=0ewKmH8AAAAJ&hl=en), or my [Twitter profile](https://twitter.com/EricHagen19).
+Welcome to my website! I am a macroevolutionary biologist interested in how evolution over millions of years affects the diversification and biogeography of (mainly) plant species. Keep on reading to learn about my research! Or feel free to check out [my CV](./cv_page.html), my [Google Scholar page](https://scholar.google.com/citations?user=0ewKmH8AAAAJ&hl=en), my [Twitter profile](https://twitter.com/EricHagen19), or my [Mastodon profile](https://ecoevo.social/@erhagen).
 
 ## POLYPLOIDY
 
