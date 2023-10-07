@@ -83,7 +83,7 @@ layout: default
 - Thais Vasconcelos
   - tvasc@umich.edu; Dept. of Ecology and Evolutionary Biology, University of Michigan; Ann Arbor, MI 48109
 - Chase Mason
-  - chase.mason@ucf.edu; Department of Biology, University of Central Florida; Orlando, FL 32816
+  - chase.mason@ubc.ca; Dept. of Biology, University of British Columbia Okanagan; Kelowna, BC V1V 1V7
 - Dana Royer
   - droyer@wesleyan.edu, 860-685-2836; Dept. of Earth & Environmental Sciences, Wesleyan University; Middletown, CT 06457
 
