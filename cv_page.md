@@ -58,7 +58,7 @@ layout: default
 - **Hagen, E.R.**, Royer, D.L., Moye, R.A., and Johnson, K.R. 2019. No large bias within species between the reconstructed areas of complete and fragmented fossil leaves. _PALAIOS_ 34 (1): 43-48.
 
 ### Popular Articles
--  Tye, S.P., and **Hagen, E.R.** 2022. The perennial seeds of Zapata. Science for the People 25 (1): 40-44.
+-  Tye, S.P., and **Hagen, E.R.** 2022. The perennial seeds of Zapata. _Science for the People_ 25 (1): 40-44.
 
 ### Conference Presentations
 -  **Hagen, E.R.**, and Beaulieu, J.M. 2023. Directly testing for diversification lags after polyploidization. Botanical Society of America Conference. Boise, Idaho.
