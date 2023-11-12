@@ -12,7 +12,7 @@ layout: default
 *  _Email:_ eric.hagen@utoronto.ca
 
 ### Education
-- PhD, University of Arkansas, Biological Sciences (2023)
+- PhD, University of Arkansas, Biology (2023)
   - Dissertation: _Time and Chance Happen to Them All: A Macroevolutionary Examination of the Effects of Whole Genome Multiplications_
   - Advisor: Jeremy M. Beaulieu
 - BA, Wesleyan University, Biology and Earth & Environmental Sciences (2018)
