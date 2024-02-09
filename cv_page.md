@@ -67,6 +67,8 @@ layout: default
 -  **Hagen, E.R.**, and Beaulieu, J.M. 2019. An event-based model for examining the influence of genome duplications on diversification dynamics. Botanical Society of America Conference. Tucson, Arizona.
 
 ### Volunteering and Outreach
+- Contract action team member, Canadian Union of Public Employees, Local 3902
+  - Departmental representative for postdoctoral fellows in CUPE 3902 Unit 5 (2023-2025)
 - Volunteer, University of Arkansas Wildlife Society
   - Participated in native plant seed collecting, tree planting, predator cam installation, clean-ups, and other projects (2018-2023)
   - Served as chapter vice president (2022-2023)
