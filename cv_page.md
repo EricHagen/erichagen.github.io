@@ -69,7 +69,7 @@ layout: default
 
 ### Volunteering and Outreach
 - Contract action team member, Canadian Union of Public Employees, Local 3902
-  - Departmental representative for postdoctoral fellows in CUPE 3902 Unit 5 (2023-2025)
+  - Departmental representative for University of Toronto postdoctoral fellows in CUPE 3902 Unit 5 (2023-2025)
 - Volunteer, University of Arkansas Wildlife Society
   - Participated in native plant seed collecting, tree planting, predator cam installation, clean-ups, and other projects (2018-2023)
   - Served as chapter vice president (2022-2023)
