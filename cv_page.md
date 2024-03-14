@@ -50,13 +50,15 @@ layout: default
 * Diversification
 * Biogeography
 
-### Publications
-- **Hagen, E.R.** 2024. A critique of Thompson and Ramírez-Barahona (2023) or: how I learned to stop worrying and love the fossil record. _Biology Letters_ https://ecoevorxiv.org/repository/view/6613/
-- **Hagen, E.R.**, Vasconcelos, T., Boyko, J.D., and Beaulieu, J.D. 2023. Historical causes for the greater proportion of polyploid plants in higher latitudes. _American Journal of Botany_ https://www.biorxiv.org/content/10.1101/2023.09.01.555981v1
+### Peer-Reviewed Publications
 - **Hagen, E.R.**, and Mason, C.M. 2023. Differences in pathogen resistance between diploid and polyploid plants: a systematic review and meta-analysis. _Oikos_ https://doi.org/10.1111/oik.09908
 - Boyko, J.D., Vasconcelos, T., **Hagen, E.R.**, and Beaulieu, J.D. 2022. Long-term responses of life-history strategies to climatic variability in flowering plants. _New Phytologist_ 240 (4): 1587-1600.
 - Lanno, S.M., Lam, I., Drum, Z.A., Gregory, S.M., Shimshak, S.J., Becker, M.V., Brew, K.E., Budhiraja, A., Carter, E.A., Chigweshe, L., Collins, K.P., Earley, T., Einstein, H.L., Fan, A.A., Goss, S.S., **Hagen, E.R.**, Hutcheon, S.B., Kim, T.T., Mitchell, M.A., Neri, N.R., Patterson, S.E., Ransom, G., Sanchez, G.J., Weiner, B.M., Zhao, D., and Coolon, J.D. 2019. Genomics analysis of L-DOPA exposure in Drosophila sechellia. _G3: Genes, Genomes, Genetics_ 9 (12): 3973-3980.
 - **Hagen, E.R.**, Royer, D.L., Moye, R.A., and Johnson, K.R. 2019. No large bias within species between the reconstructed areas of complete and fragmented fossil leaves. _PALAIOS_ 34 (1): 43-48.
+
+### Pre-prints
+- **Hagen, E.R.** 2024. A critique of Thompson and Ramírez-Barahona (2023) or: how I learned to stop worrying and love the fossil record. https://ecoevorxiv.org/repository/view/6613/
+- **Hagen, E.R.**, Vasconcelos, T., Boyko, J.D., and Beaulieu, J.D. 2023. Historical causes for the greater proportion of polyploid plants in higher latitudes. Link here[https://www.biorxiv.org/content/10.1101/2023.09.01.555981v1]
 
 ### Popular Articles
 -  Tye, S.P., and **Hagen, E.R.** 2022. The perennial seeds of Zapata. _Science for the People_ 25 (1): 40-44.
