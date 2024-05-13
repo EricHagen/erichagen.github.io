@@ -70,15 +70,15 @@ layout: default
 -  **Hagen, E.R.**, and Beaulieu, J.M. 2019. An event-based model for examining the influence of genome duplications on diversification dynamics. Botanical Society of America Conference. Tucson, Arizona, USA.
 
 ### Volunteering and Outreach
-- Judge, University of Toronto Science Rendezvous festival (May 2024)
-  - Assessed competitions for posters by high school students and presentations by graduate students
+- Judge, University of Toronto Science Rendezvous festival
+  - Assessed competitions for posters by high school students and presentations by graduate students (May 2024)
 - Contract Action Team (CAT) member, Canadian Union of Public Employees, Local 3902
   - Departmental representative for University of Toronto postdoctoral fellows in CUPE 3902 Unit 5 (2023-2025)
 - Volunteer, University of Arkansas Wildlife Society
   - Participated in native plant seed collecting, tree planting, predator cam installation, clean-ups, and other projects (2018-2023)
   - Served as chapter vice president & treasurer (2022-2023)
-- Judge, University of Arkansas Undergraduate Research Week Poster Competition (April 2022)
-  
+- Judge, University of Arkansas Undergraduate Research Week
+  - Assessed undergraduate poster competition (April 2022)
 - Tutor, Wesleyan Center for Prison Education
   - Tutored students at York Correctional Institution in Niantic, CT in math and writing (2015-2016)
 
