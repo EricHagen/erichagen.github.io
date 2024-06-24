@@ -51,7 +51,7 @@ layout: default
 * Biogeography
 
 ### Peer-Reviewed Publications
-- **Hagen, E.R.**, Vasconcelos, T., Boyko, J.D., and Beaulieu, J.M. 2024. Investigating historical drivers of latitudinal gradients in polyploid plant biogeography: A multiclade perspective. _American Journal of Botany_: e16356. [Early View here](https://bsapubs.onlinelibrary.wiley.com/doi/full/10.1002/ajb2.16356)
+- **Hagen, E.R.**, Vasconcelos, T., Boyko, J.D., and Beaulieu, J.M. 2024. Investigating historical drivers of latitudinal gradients in polyploid plant biogeography: a multiclade perspective. _American Journal of Botany_: e16356. [Early View here](https://bsapubs.onlinelibrary.wiley.com/doi/full/10.1002/ajb2.16356)
 - **Hagen, E.R.**, and Mason, C.M. 2024. Differences in pathogen resistance between diploid and polyploid plants: a systematic review and meta-analysis. _Oikos_ 2024 (5): e09908. [Link here](https://doi.org/10.1111/oik.09908)
 - Boyko, J.D., Vasconcelos, T., **Hagen, E.R.**, and Beaulieu, J.D. 2023. The evolutionary responses of life‐history strategies to climatic variability in flowering plants. _New Phytologist_ 240 (4): 1587-1600. [Link here](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.18971)
 - Lanno, S.M., Lam, I., Drum, Z.A., Gregory, S.M., Shimshak, S.J., Becker, M.V., Brew, K.E., Budhiraja, A., Carter, E.A., Chigweshe, L., Collins, K.P., Earley, T., Einstein, H.L., Fan, A.A., Goss, S.S., **Hagen, E.R.**, Hutcheon, S.B., Kim, T.T., Mitchell, M.A., Neri, N.R., Patterson, S.E., Ransom, G., Sanchez, G.J., Weiner, B.M., Zhao, D., and Coolon, J.D. 2019. Genomics analysis of L-DOPA exposure in Drosophila sechellia. _G3: Genes, Genomes, Genetics_ 9 (12): 3973-3980. [Link here](https://academic.oup.com/g3journal/article/9/12/3973/6028087)
