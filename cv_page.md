@@ -64,6 +64,7 @@ layout: default
 -  Tye, S.P., and **Hagen, E.R.** 2022. The perennial seeds of Zapata. _Science for the People_ 25 (1): 40-44. [Link here](https://magazine.scienceforthepeople.org/vol25-1-the-soil-and-worker/the-perennial-seeds-of-zapata/)
 
 ### Conference Presentations
+- **Hagen, E.R.**, Pease, J.B., and Parins-Fukuchi, C.T. 2024. Integrating phylogenomic and paleobiological approaches to investigate the emergence of novelty in flowering plants. Evolution Conference. Montreal, Quebec, Canada.
 -  **Hagen, E.R.**, and Beaulieu, J.M. 2023. Directly testing for diversification lags after polyploidization. Botanical Society of America Conference. Boise, Idaho, USA.
 -  **Hagen, E.R.**, Vasconcelos, T.N.C., Boyko, J.D., and Beaulieu, J.M. 2022. The biogeography of polyploid plants in historical and phylogenetic context. Evolution Conference. Cleveland, Ohio, USA.
 -  **Hagen, E.R.**, Vasconcelos, T.N.C., Boyko, J.D., and Beaulieu, J.M. 2022. Climatic instability through time shaped the global distribution of polyploid diversity in flowering plants. International Biogeography Society Conference. Vancouver, British Columbia, Canada.
