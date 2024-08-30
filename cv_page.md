@@ -51,14 +51,12 @@ layout: default
 * Biogeography
 
 ### Peer-Reviewed Publications
+- **Hagen, E.R.** 2024. A critique of Thompson and Ramírez-Barahona (2023) or: how I learned to stop worrying and love the fossil record. _Biology Letters_ 20: 20240039. [Link here](https://royalsocietypublishing.org/doi/10.1098/rsbl.2024.0039)
 - **Hagen, E.R.**, Vasconcelos, T., Boyko, J.D., and Beaulieu, J.M. 2024. Investigating historical drivers of latitudinal gradients in polyploid plant biogeography: a multiclade perspective. _American Journal of Botany_ 111 (8): e16356. [Link here](https://bsapubs.onlinelibrary.wiley.com/doi/full/10.1002/ajb2.16356)
 - **Hagen, E.R.**, and Mason, C.M. 2024. Differences in pathogen resistance between diploid and polyploid plants: a systematic review and meta-analysis. _Oikos_ 2024 (5): e09908. [Link here](https://doi.org/10.1111/oik.09908)
 - Boyko, J.D., Vasconcelos, T., **Hagen, E.R.**, and Beaulieu, J.D. 2023. The evolutionary responses of life‐history strategies to climatic variability in flowering plants. _New Phytologist_ 240 (4): 1587-1600. [Link here](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.18971)
 - Lanno, S.M., Lam, I., Drum, Z.A., Gregory, S.M., Shimshak, S.J., Becker, M.V., Brew, K.E., Budhiraja, A., Carter, E.A., Chigweshe, L., Collins, K.P., Earley, T., Einstein, H.L., Fan, A.A., Goss, S.S., **Hagen, E.R.**, Hutcheon, S.B., Kim, T.T., Mitchell, M.A., Neri, N.R., Patterson, S.E., Ransom, G., Sanchez, G.J., Weiner, B.M., Zhao, D., and Coolon, J.D. 2019. Genomics analysis of L-DOPA exposure in Drosophila sechellia. _G3: Genes, Genomes, Genetics_ 9 (12): 3973-3980. [Link here](https://academic.oup.com/g3journal/article/9/12/3973/6028087)
 - **Hagen, E.R.**, Royer, D.L., Moye, R.A., and Johnson, K.R. 2019. No large bias within species between the reconstructed areas of complete and fragmented fossil leaves. _PALAIOS_ 34 (1): 43-48. [Link here](https://pubs.geoscienceworld.org/sepm/palaios/article-abstract/34/1/43/568424/NO-LARGE-BIAS-WITHIN-SPECIES-BETWEEN-THE)
-
-### Pre-prints
-- **Hagen, E.R.** 2024. A critique of Thompson and Ramírez-Barahona (2023) or: how I learned to stop worrying and love the fossil record. [Link here](https://ecoevorxiv.org/repository/view/6613/)
 
 ### Popular Articles
 -  Tye, S.P., and **Hagen, E.R.** 2022. The perennial seeds of Zapata. _Science for the People_ 25 (1): 40-44. [Link here](https://magazine.scienceforthepeople.org/vol25-1-the-soil-and-worker/the-perennial-seeds-of-zapata/)
