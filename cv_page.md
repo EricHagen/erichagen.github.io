@@ -51,6 +51,7 @@ layout: default
 * Biogeography
 
 ### Peer-Reviewed Publications
+- **Hagen, E.R.**, and Beaulieu, J.M. 2024. New beginnings for dead ends: polyploidy, -SSE models and the dead-end hypothesis. _Annals of Botany_: mcae143.
 - **Hagen, E.R.** 2024. A critique of Thompson and Ramírez-Barahona (2023) or: how I learned to stop worrying and love the fossil record. _Biology Letters_ 20: 20240039. [Link here](https://royalsocietypublishing.org/doi/10.1098/rsbl.2024.0039)
 - **Hagen, E.R.**, Vasconcelos, T., Boyko, J.D., and Beaulieu, J.M. 2024. Investigating historical drivers of latitudinal gradients in polyploid plant biogeography: a multiclade perspective. _American Journal of Botany_ 111 (8): e16356. [Link here](https://bsapubs.onlinelibrary.wiley.com/doi/full/10.1002/ajb2.16356)
 - **Hagen, E.R.**, and Mason, C.M. 2024. Differences in pathogen resistance between diploid and polyploid plants: a systematic review and meta-analysis. _Oikos_ 2024 (5): e09908. [Link here](https://doi.org/10.1111/oik.09908)
