@@ -20,7 +20,7 @@ layout: default
   - Advisor: Dana L. Royer
 
 ### Employment
-- Postdoctoral Fellow, University of Toronto (2023 - present)
+- Postdoctoral Fellow, Dept. of Ecology & Evolutionary Biology, University of Toronto (2023 - present)
   - Mentor: C. Tomomi Parins-Fukuchi
  
 ### Honors, Awards, and Funding
@@ -62,6 +62,10 @@ layout: default
 ### Popular Articles
 -  Tye, S.P., and **Hagen, E.R.** 2022. The perennial seeds of Zapata. _Science for the People_ 25 (1): 40-44. [Link here](https://magazine.scienceforthepeople.org/vol25-1-the-soil-and-worker/the-perennial-seeds-of-zapata/)
 
+### Invited Talks
+- **Hagen, E.R.**, and Beaulieu, J.M. April 2, 2025. Using -SSE models to study diversification after neopolyploidy and paleopolyploidy. Polyploidy Webinar. Online via Zoom.
+- **Hagen, E.R.** March 27, 2025. How polyploidy affects plant evolution: traits, diversification, and biogeography in phylogenetic context. University of Central Florida, Orlando, Florida, USA.
+
 ### Conference Presentations
 - **Hagen, E.R.**, Pease, J.B., and Parins-Fukuchi, C.T. 2024. Integrating phylogenomic and paleobiological approaches to investigate the emergence of novelty in flowering plants. Evolution Conference. Montreal, Quebec, Canada.
 -  **Hagen, E.R.**, and Beaulieu, J.M. 2023. Directly testing for diversification lags after polyploidization. Botanical Society of America Conference. Boise, Idaho, USA.
@@ -70,18 +74,21 @@ layout: default
 -  **Hagen, E.R.**, and Beaulieu, J.M. 2019. An event-based model for examining the influence of genome duplications on diversification dynamics. Botanical Society of America Conference. Tucson, Arizona, USA.
 
 ### Volunteering and Outreach
-- Judge, University of Toronto Science Rendezvous festival
-  - Assessed competitions for posters by high school students and presentations by graduate students (May 2024)
-- Contract Action Team (CAT) member, Canadian Union of Public Employees, Local 3902
-  - Departmental representative for University of Toronto postdoctoral fellows in CUPE 3902 Unit 5 (2023-2025)
-  - Unit 5 Steward (2024-2025)
-- Volunteer, University of Arkansas Wildlife Society
-  - Participated in native plant seed collecting, tree planting, predator cam installation, clean-ups, and other projects (2018-2023)
-  - Served as chapter vice president & treasurer (2022-2023)
-- Judge, University of Arkansas Undergraduate Research Week
-  - Assessed undergraduate poster competition (April 2022)
-- Tutor, Wesleyan Center for Prison Education
-  - Tutored students at York Correctional Institution in Niantic, CT in math and writing (2015-2016)
+- Canadian Union of Public Employees Local 3902, Unit 5 (Postdocs)
+  - Unit 5 Lead Steward, 2025 – present
+  - Grievance Council member, 2025 – present
+  - Unit 5 Steward for EEB Dept., 2024 – 2025
+  - Contract Action Team Member, 2023 – 2024
+- Research presentation competitions
+  - Lightning talk moderator, 19th Annual University of Toronto Atwood Colloquium in Ecology & Evolution, 2025
+  - Judge, University of Toronto EEB Undergraduate Research Fair, 2025
+  - Judge, University of Toronto Science Rendezvous Festival, 2024
+  - Judge, University of Arkansas Undergraduate Research Week, 2022
+- University of Arkansas Wildlife Society
+  - Vice President + Treasurer, 2022-2023
+  - Participated in native plant seed collecting, tree planting, predator cam installation, clean-ups, and other projects, 2018-2023
+- Wesleyan Center for Prison Education
+  - Tutored students at York Correctional Institution in Niantic, CT with math and writing, 2015-2016
 
 ### References
 - Jeremy Beaulieu
