@@ -85,10 +85,10 @@ layout: default
   - Judge, University of Toronto Science Rendezvous Festival, 2024
   - Judge, University of Arkansas Undergraduate Research Week, 2022
 - University of Arkansas Wildlife Society
-  - Vice President + Treasurer, 2022-2023
-  - Participated in native plant seed collecting, tree planting, predator cam installation, clean-ups, and other projects, 2018-2023
+  - Vice President + Treasurer, 2022 - 2023
+  - Participated in native plant seed collecting, tree planting, predator cam installation, clean-ups, and other projects, 2018 - 2023
 - Wesleyan Center for Prison Education
-  - Tutored students at York Correctional Institution in Niantic, CT with math and writing, 2015-2016
+  - Tutored students at York Correctional Institution in Niantic, CT with math and writing, 2015 - 2016
 
 ### References
 - Jeremy Beaulieu
