@@ -63,7 +63,7 @@ layout: default
 -  Tye, S.P., and **Hagen, E.R.** 2022. The perennial seeds of Zapata. _Science for the People_ 25 (1): 40-44. [Link here](https://magazine.scienceforthepeople.org/vol25-1-the-soil-and-worker/the-perennial-seeds-of-zapata/)
 
 ### Invited Talks
-- **Hagen, E.R.**, and Beaulieu, J.M. April 2, 2025. Using -SSE models to study diversification after neopolyploidy and paleopolyploidy. Polyploidy Webinar. Online via Zoom.
+- **Hagen, E.R.**, and Beaulieu, J.M. April 2, 2025. Using -SSE models to study diversification after neopolyploidy and paleopolyploidy. Polyploidy Webinar. Online via Zoom. [Recording here](https://www.youtube.com/watch?v=zmUyTO3jN6s&ab_channel=MikeBarker)
 - **Hagen, E.R.** March 27, 2025. How polyploidy affects plant evolution: traits, diversification, and biogeography in phylogenetic context. University of Central Florida, Orlando, Florida, USA.
 
 ### Conference Presentations
