@@ -76,8 +76,8 @@ layout: default
 
 ### Volunteering and Outreach
 - Canadian Union of Public Employees Local 3902, Unit 5 (Postdocs)
-  - Unit 5 Lead Steward, 2025
-  - Grievance Council member, 2025
+  - Unit 5 Lead Steward, 2025 - present
+  - Grievance Council member, 2025 - present
   - Unit 5 Steward for EEB Dept., 2024 – 2025
   - Contract Action Team Member, 2023 – 2024
 - Research presentation competitions
