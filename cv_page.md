@@ -67,6 +67,7 @@ layout: default
 - **Hagen, E.R.** March 27, 2025. How polyploidy affects plant evolution: traits, diversification, and biogeography in phylogenetic context. University of Central Florida, Orlando, Florida, USA.
 
 ### Conference Presentations
+- **Hagen, E.R.**, and Parins-Fukuchi, C.T. 2025. Biotic replacements and macroevolutionary lags: searching for mechanisms. Evolution Conference. Athens, Georgia, USA.
 - **Hagen, E.R.**, Pease, J.B., and Parins-Fukuchi, C.T. 2024. Integrating phylogenomic and paleobiological approaches to investigate the emergence of novelty in flowering plants. Evolution Conference. Montreal, Quebec, Canada.
 -  **Hagen, E.R.**, and Beaulieu, J.M. 2023. Directly testing for diversification lags after polyploidization. Botanical Society of America Conference. Boise, Idaho, USA.
 -  **Hagen, E.R.**, Vasconcelos, T.N.C., Boyko, J.D., and Beaulieu, J.M. 2022. The biogeography of polyploid plants in historical and phylogenetic context. Evolution Conference. Cleveland, Ohio, USA.
@@ -75,8 +76,8 @@ layout: default
 
 ### Volunteering and Outreach
 - Canadian Union of Public Employees Local 3902, Unit 5 (Postdocs)
-  - Unit 5 Lead Steward, 2025 – present
-  - Grievance Council member, 2025 – present
+  - Unit 5 Lead Steward, 2025
+  - Grievance Council member, 2025
   - Unit 5 Steward for EEB Dept., 2024 – 2025
   - Contract Action Team Member, 2023 – 2024
 - Research presentation competitions
