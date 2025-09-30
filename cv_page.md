@@ -8,8 +8,8 @@ layout: default
 ## Curriculum Vitae
 
 ### Personal Information
-*  _Address:_ 25 Willcocks St., University of Toronto, Toronto, ON M5S 3B2
-*  _Email:_ eric.hagen@utoronto.ca
+*  _Address:_ 1105 North University Ave., University of Michigan, Ann Arbor, MI 48109
+*  _Email:_ erhagen@umich.edu
 
 ### Education
 - PhD, University of Arkansas, Biology (2023)
@@ -20,7 +20,9 @@ layout: default
   - Advisor: Dana L. Royer
 
 ### Employment
-- Postdoctoral Fellow, Dept. of Ecology & Evolutionary Biology, University of Toronto (2023 - present)
+- Postdoctoral Fellow, Dept. of Ecology and Evolutionary Biology, University of Michigan (2025 - present)
+  - Mentor: Thais Vasconcelos
+- Postdoctoral Fellow, Dept. of Ecology & Evolutionary Biology, University of Toronto (2023 - 2025)
   - Mentor: C. Tomomi Parins-Fukuchi
  
 ### Honors, Awards, and Funding
@@ -51,6 +53,7 @@ layout: default
 * Biogeography
 
 ### Peer-Reviewed Publications
+- Thompson, J.B., **Hagen, E.R.**, Forward, E.A., Pérez-Escobar, O.A., Clark, J.W., and Priest, N.K. 2025. Frequent shifts in pollination strategy are decoupled from diversification in terrestrial orchids. _EcoEvoRxiv_ [Link here](https://ecoevorxiv.org/repository/view/10035/)
 - **Hagen, E.R.**, and Beaulieu, J.M. 2024. New beginnings for dead ends: polyploidy, -SSE models and the dead-end hypothesis. _Annals of Botany_ 134 (6): 923-932. [Link here](https://academic.oup.com/aob/article/134/6/923/7761963)
 - **Hagen, E.R.** 2024. A critique of Thompson and Ramírez-Barahona (2023) or: how I learned to stop worrying and love the fossil record. _Biology Letters_ 20: 20240039. [Link here](https://royalsocietypublishing.org/doi/10.1098/rsbl.2024.0039)
 - **Hagen, E.R.**, Vasconcelos, T., Boyko, J.D., and Beaulieu, J.M. 2024. Investigating historical drivers of latitudinal gradients in polyploid plant biogeography: a multiclade perspective. _American Journal of Botany_ 111 (8): e16356. [Link here](https://bsapubs.onlinelibrary.wiley.com/doi/full/10.1002/ajb2.16356)
@@ -74,17 +77,20 @@ layout: default
 -  **Hagen, E.R.**, Vasconcelos, T.N.C., Boyko, J.D., and Beaulieu, J.M. 2022. Climatic instability through time shaped the global distribution of polyploid diversity in flowering plants. International Biogeography Society Conference. Vancouver, British Columbia, Canada.
 -  **Hagen, E.R.**, and Beaulieu, J.M. 2019. An event-based model for examining the influence of genome duplications on diversification dynamics. Botanical Society of America Conference. Tucson, Arizona, USA.
 
+### Editorial Board and Reviewer Experience
+Review for: _American Journal of Botany_, _Annals of Botany_, _AoB Plants_, _Cell_, _Evolution_, _Global Ecology & Biogeography_, _New Phytologist_, _Proceedings of the Royal Society B_, _Systematic Biology_
+
 ### Volunteering and Outreach
-- Canadian Union of Public Employees Local 3902, Unit 5 (Postdocs)
-  - Unit 5 Lead Steward, 2025 – present
-  - Grievance Council member, 2025 – present
-  - Unit 5 Steward for EEB Dept., 2024 – 2025
-  - Contract Action Team Member, 2023 – 2024
 - Research presentation competitions
   - Lightning talk moderator, 19th Annual University of Toronto Atwood Colloquium in Ecology & Evolution, 2025
   - Judge, University of Toronto EEB Undergraduate Research Fair, 2025
   - Judge, University of Toronto Science Rendezvous Festival, 2024
   - Judge, University of Arkansas Undergraduate Research Week, 2022
+- Canadian Union of Public Employees Local 3902, Unit 5 (Postdocs)
+  - Unit 5 Lead Steward, 2025
+  - Grievance Council member, 2025
+  - Unit 5 Steward for EEB Dept., 2024 – 2025
+  - Contract Action Team Member, 2023 – 2024
 - University of Arkansas Wildlife Society
   - Vice President + Treasurer, 2022 – 2023
   - Participated in native plant seed collecting, tree planting, predator cam installation, clean-ups, and other projects, 2018 – 2023
