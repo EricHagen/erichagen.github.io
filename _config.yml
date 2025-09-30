@@ -2,11 +2,11 @@
 theme: jekyll-theme-minimal
 
 #Site settings
-locale                   : "en-CA"
+locale                   : "en-US"
 title                    : "Eric Hagen, PhD"
 title_separator          : "-"
 name                     : "Eric Hagen"
-description              : "Postdoctoral Fellow, University of Toronto"
+description              : "Postdoctoral Fellow, University of Michigan"
 url                      : "https://erichagen.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "EricHagen/erichagen.github.io"
