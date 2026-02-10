@@ -7,6 +7,8 @@ layout: default
 
 ## Curriculum Vitae
 
+[Link here](hagen_cv_feb2026.pdf)
+
 ### Personal Information
 *  _Address:_ 1105 North University Ave., University of Michigan, Ann Arbor, MI 48109
 *  _Email:_ erhagen@umich.edu
