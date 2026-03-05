@@ -5,4 +5,4 @@ layout: default
 
 # Curriculum Vitae
 
-## [PDF available here](./assets/images/hagen_cv_feb2026.pdf)
+## [PDF available here](./assets/images/cv_erichagen_march2026.pdf)
