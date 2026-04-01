@@ -1,8 +1,10 @@
 # Name of website
 # theme: jekyll-theme-dark-minimal
-remote_theme: yaoyao-liu/minimal-light
+
 plugins:
   - jekyll-remote-theme
+
+remote_theme: yaoyao-liu/minimal-light
 
 # Basic Information 
 title: Eric Hagen, PhD
