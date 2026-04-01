@@ -1,18 +1,62 @@
 # Name of website
 # theme: jekyll-theme-dark-minimal
-remote_theme: wbadart/jekyll-theme-dark-minimal
+remote_theme: yaoyao-liu/minimal-light
 plugins:
   - jekyll-remote-theme
 
+# Basic Information 
+title: Eric Hagen, PhD
+position: Postdoctoral Fellow
+affiliation: University of Michigan
+email: erhagen@umich.edu
+
+# Search Engine Optimization (SEO)
+keywords: Hagen, biology, biologist
+description: Academic personal homepage for Eric Hagen.
+canonical: https://erichagen.github.io/
+
+# Links 
+# If you don't need one of them, you may delete the corresponding line.
+google_scholar: https://scholar.google.com/citations?user=0ewKmH8AAAAJ&hl=en&oi=ao
+cv_link: assets/non-image-files/cv_erichagen_march2026.pdf
+github_link: https://github.com/EricHagen
+twitter: https://x.com/EricHagen19
+
+# Images (e.g., your profile picture and your website's favicon) 
+# "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
+avatar: ./assets/images/tortle.jpeg
+# favicon:
+favicon_dark: ./assets/images/leaf.jpg.avif
+
+# Footnote
+# You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
+enable_footnote: true
+
+# Auto Dark Mode
+# You may use the option to disable the automatic dark theme
+auto_dark_mode: true
+
+# Font
+# You can use this option to choose between Serif or Sans Serif fonts.
+font: "Serif" # or "Sans Serif"
+
+# Google Analytics ID
+# Please remove this if you don't use Google Analytics
+# google_analytics: UA-111540567-4
+
+
+
+# OLD THEME STUFF:
+
 #Site settings
-locale                   : "en-US"
-title                    : "Eric Hagen, PhD"
-title_separator          : "-"
-name                     : "Eric Hagen"
-description              : "Postdoctoral Fellow, University of Michigan"
-url                      : "https://erichagen.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "EricHagen/erichagen.github.io"
-teaser                   : #/assets/images/tortle.jpeg"
-logo                     : "/assets/images/tortle.jpeg"
-masthead_title           : "Eric Hagen"
+#locale                   : "en-US"
+#title                    : "Eric Hagen, PhD"
+#title_separator          : "-"
+#name                     : "Eric Hagen"
+#description              : "Postdoctoral Fellow, University of Michigan"
+#url                      : "https://erichagen.github.io"
+#baseurl                  : # the subpath of your site, e.g. "/blog"
+#repository               : "EricHagen/erichagen.github.io"
+#teaser                   : #/assets/images/tortle.jpeg"
+#logo                     : "/assets/images/tortle.jpeg"
+#masthead_title           : "Eric Hagen"
