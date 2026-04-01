@@ -1,14 +1,4 @@
 ---
 ---
-@import "{{ site.theme }}";
 
-body {
-  background-color: #121212;
-  color: #e0e0e0;
-}
-a {
-  color: #bb86fc;
-}
-header, footer {
-  color: #999;
-}
+@import "minimal-light";
