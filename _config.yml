@@ -1,5 +1,8 @@
 # Name of website
-theme: jekyll-theme-dark-minimal
+# theme: jekyll-theme-dark-minimal
+remote_theme: wbadart/jekyll-theme-dark-minimal
+plugins:
+  - jekyll-remote-theme
 
 #Site settings
 locale                   : "en-US"
