@@ -14,3 +14,7 @@
   max-width: none !important;
   object-fit: cover !important;
 }
+
+.author__avatar img {
+  border-radius: 0%; /* Change from 50% (circle) to 0% (square) */
+}
