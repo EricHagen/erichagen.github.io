@@ -18,12 +18,12 @@
    // border-radius: 0 !important;
  }
 
- .image.avatar {
-   position: relative;
-   left: -20px;
- }
-
 // .author__avatar,
 // .author__avatar img {
 //   border-radius: 0 !important;
 // }
+
+ .image.avatar {
+    position: relative;
+    left: -20px; // Adjusts the profile image slightly to the left to better align with the text below
+  }
