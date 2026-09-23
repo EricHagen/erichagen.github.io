@@ -2,7 +2,9 @@
 ---
 
 @import "minimal-light";
-.author__avatar img {
-  max-width: 120px; /* Change this value to your preferred pixel size */
-  height: auto;
+
+.image.avatar img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
 }
