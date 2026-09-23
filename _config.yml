@@ -9,7 +9,9 @@ remote_theme: yaoyao-liu/minimal-light
 # Basic Information 
 title: Eric Hagen, PhD
 position: Postdoctoral Fellow
-affiliation: "University of California, \nSanta Barbara"
+affiliation: |
+  University of California,
+  Santa Barbara
 email: erhagen@ucsb.edu
 
 # Search Engine Optimization (SEO)
