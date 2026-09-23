@@ -18,8 +18,8 @@
    // border-radius: 0 !important;
  }
 
- .author__avatar img {
-   transform: translateX(-20px);
+ .author__avatar {
+   margin-left: -20px !important;
  }
 
 // .author__avatar,
