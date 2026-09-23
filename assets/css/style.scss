@@ -13,13 +13,10 @@
    height: 200px !important;
    max-width: none !important;
    object-fit: cover !important;
-//   border-radius: 0 !important;
+   float: left !important;
+   margin-right: 15px !important; // Adds space between the image and nearby text
+   // border-radius: 0 !important;
  }
-
-img {
-  float: left;
-  margin-right: 15px; // Adds space between the image and nearby text
-}
 
 // .author__avatar,
 // .author__avatar img {
