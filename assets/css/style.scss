@@ -16,6 +16,11 @@
 //   border-radius: 0 !important;
  }
 
+img {
+  float: left;
+  margin-right: 15px; // Adds space between the image and nearby text
+}
+
 // .author__avatar,
 // .author__avatar img {
 //   border-radius: 0 !important;
